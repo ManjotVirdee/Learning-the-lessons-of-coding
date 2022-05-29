@@ -8,8 +8,8 @@ I just learned while writing this that there is no spell check while typing dire
 Google points me here: https://github.com/BookStackApp/BookStack/issues/693. At the time it was an open issue [unresolved]. I suppose I'm giving up a bit quickly, but I have other ways to spell check my documents so let's leave this for now.
 
 Back to the readme file. 
-The basics of writing and formating syntax is a good reference to start: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-A Markdown Cheat sheet is also helpful: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+The basics of writing and formating syntax is a good reference to start: [Basic-writing-and-formatting-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+A [Markdown Cheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) sheet is also helpful:
 
 However, I am not in favor of this approach. I like an example to start with. So, I go find one! Hey look!. https://github.com/puppetlabs/puppet/blob/main/CONTRIBUTING.md
 

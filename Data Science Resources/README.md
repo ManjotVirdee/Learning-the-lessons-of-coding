@@ -10,6 +10,7 @@ List of DS Resources:
  - [GGplot2](https://ggplot2-book.org/)
  - [Modern Dive - Engaging example page](https://moderndive.com/A-appendixA.html)
  - [Mastering Shiny - has best practices page](https://mastering-shiny.org/scaling-intro.html)
+ - [Regression and other Stories - A useful exploration of coding stories](https://github.com/avehtari/ROS-Examples)
  - blank
 
 

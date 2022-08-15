@@ -11,7 +11,7 @@ List of DS Resources:
  - [Modern Dive - Engaging example page](https://moderndive.com/A-appendixA.html)
  - [Mastering Shiny - has best practices page](https://mastering-shiny.org/scaling-intro.html)
  - [Regression and other Stories - A useful exploration of coding stories](https://github.com/avehtari/ROS-Examples)
- - [Personal git](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets)
+ - [Edward's personal git](https://github.com/edwardleardi/mle-ds-swe-cheat-sheets)
  - blank
 
 
